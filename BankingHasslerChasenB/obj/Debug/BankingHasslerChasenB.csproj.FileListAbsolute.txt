@@ -1,0 +1,6 @@
+c:\users\betti\documents\visual studio 2017\Projects\BankingHasslerChasenB\BankingHasslerChasenB\bin\Debug\BankingHasslerChasenB.exe.config
+c:\users\betti\documents\visual studio 2017\Projects\BankingHasslerChasenB\BankingHasslerChasenB\bin\Debug\BankingHasslerChasenB.exe
+c:\users\betti\documents\visual studio 2017\Projects\BankingHasslerChasenB\BankingHasslerChasenB\bin\Debug\BankingHasslerChasenB.pdb
+c:\users\betti\documents\visual studio 2017\Projects\BankingHasslerChasenB\BankingHasslerChasenB\obj\Debug\BankingHasslerChasenB.csprojResolveAssemblyReference.cache
+c:\users\betti\documents\visual studio 2017\Projects\BankingHasslerChasenB\BankingHasslerChasenB\obj\Debug\BankingHasslerChasenB.exe
+c:\users\betti\documents\visual studio 2017\Projects\BankingHasslerChasenB\BankingHasslerChasenB\obj\Debug\BankingHasslerChasenB.pdb
